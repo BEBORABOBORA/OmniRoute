@@ -1,3 +1,4 @@
+# Refresh GitHub Actions workflow discovery
 name: Build App
 
 # Manual-only since #11946. The hosted 7 GB runner can no longer build this tree — 19 of
